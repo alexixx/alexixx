@@ -53,9 +53,9 @@
 
 
 
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexixx&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexixx&theme=apprentice)
-
+-->
 <br>
 <div align="center" width="100%">
   
