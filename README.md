@@ -43,11 +43,13 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexixx&layout=compact&theme=apprentice&hide_border=true) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexixx&theme=apprentice)
 
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexixx&theme=apprentice) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexixx&theme=apprentice)
-
+-->
 
 
 
