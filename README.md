@@ -1,7 +1,7 @@
 
 
 
-<h1 align="left">Hi, I'm Alexey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>And i am a Full Stack Developer</h1>
+<h1 align="left">Hi, I'm Alexey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>And i am a Frontend Developer</h1>
 
 ### :man_technologist: About Me :
 :man: I do frontend and backend development and am interested in new things
